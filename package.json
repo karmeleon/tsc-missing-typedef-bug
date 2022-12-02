@@ -1,0 +1,12 @@
+{
+  "name": "tsc-missing-typedef-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karmeleon/tsc-missing-typedef-bug.git",
+  "author": "Shawn Walton <sh@wn.zone>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {}
+}
